@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C++, Python, Assembly**
 
-- 📫 How to reach me **a.muhammad2k3@gmail.com**
+- 📫 Reach me at **a.muhammad2k3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
