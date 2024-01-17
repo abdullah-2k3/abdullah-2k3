@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **a.muhammad2k3@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: www.linkedin.com/in/muhammad-abdullah-1b5aa8231</h3>
 <p align="left">
 </p>
 
