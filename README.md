@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Maqsood</h1>
-<h3 align="center">I am Data Science Student at FAST NUCES, Lahore</h3>
+<h3 align="center">Data Science Student at FAST NUCES, Lahore</h3>
 
 - 🔭 I’m currently studying in my 4th **semester**
 
