@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying in my 4th **semester**
 
-- 🌱 I’m currently learning **Django, Flask, SQL**
+- 🌱 I’m currently learning **SQL, C#, React**
 
 - 💬 Ask me about **C++, Python, Assembly**
 
