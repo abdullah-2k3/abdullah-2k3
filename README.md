@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently studying in my 4th **semester**
 
-- 🌱 I’m currently learning **SQL, C#, React**
+- 🌱 I’m currently learning **PySpark**
 
-- 💬 Ask me about **C++, Python, Assembly**
+- 💬 Ask me about **Python, SQL, C++, C#, Assembly**
 
 
 <p align="left">
