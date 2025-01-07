@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-2k3&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-2k3" /> </p>
 
-- 🔭 I'm in **the 5th Semester** of my degree
+- 🔭 I'm in **6th Semester** of my degree
 
 - 🌱 I’m currently practicing **Machine Learning and Full Stack Development**
 
