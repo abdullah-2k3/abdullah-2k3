@@ -5,7 +5,7 @@
 
 - 🔭 I'm in **6th Semester** of my degree
 
-- 🌱 I’m currently practicing **Machine Learning and Full Stack Development**
+- 🌱 I’m currently practicing **Ai Integrations with Web based Applications**
 
 - ⚡ Fun fact **I am a part time philosopher**
 
