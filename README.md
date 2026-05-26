@@ -17,7 +17,7 @@ Building scalable web applications, AI-powered systems, and intelligent automati
 ## 🚀 About Me
 
 - 🎓 BS in Data Science from **FAST NUCES, Lahore**
-- 💻 Focused on **Full Stack MERN Development**
+- 💻 Focused on **Full Stack Development**
 - 🤖 Building **Agentic AI Systems & Automation Workflows**
 - 🌱 Exploring **LLMs, AI Integrations, Backend Architectures, and Scalable Systems**
 - ⚡ Fun fact: *Part-time philosopher, full-time problem solver*
@@ -43,12 +43,12 @@ Building scalable web applications, AI-powered systems, and intelligent automati
 
 ### Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </p>
 
 ### Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,dotnet" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
 </p>
 
 ### Databases & Cloud
@@ -73,27 +73,21 @@ Building scalable web applications, AI-powered systems, and intelligent automati
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullah-2k3&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-2k3&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 ## ⚡ Current Focus
 
-```javascript
+```js
 const abdullah = {
-    role: "Full Stack Developer & AI Automation Engineer",
-    stack: ["MERN", "Node.js", "React", "MongoDB"],
-    interests: [
-        "Agentic AI",
-        "LLMs",
-        "Automation Workflows",
-        "Scalable Backend Systems"
-    ],
-    currentlyBuilding: "AI-powered full stack applications"
+  role: "Full Stack Developer & AI Automation Engineer",
+  tech: ["MERN", "Node.js", "React", "MongoDB"],
+  interests: ["Agentic AI", "LLMs", "Automation", "Scalable Systems"],
+  currentlyBuilding: "AI-powered Full Stack Applications"
 };
+```
+
+---
+
+<p align="center">
+  <i>"Build systems that think, automate, and scale."</i>
+</p>
