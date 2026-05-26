@@ -48,12 +48,12 @@ Building scalable web applications, AI-powered systems, and intelligent automati
 
 ### Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" />
 </p>
 
 ### Databases & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws" />
 </p>
 
 ### AI / Data Science
@@ -70,21 +70,6 @@ Building scalable web applications, AI-powered systems, and intelligent automati
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
 </p>
-
----
-
----
-
-## ⚡ Current Focus
-
-```js
-const abdullah = {
-  role: "Full Stack Developer & AI Automation Engineer",
-  tech: ["MERN", "Node.js", "React", "MongoDB"],
-  interests: ["Agentic AI", "LLMs", "Automation", "Scalable Systems"],
-  currentlyBuilding: "AI-powered Full Stack Applications"
-};
-```
 
 ---
 
