@@ -28,7 +28,11 @@ Building scalable web applications, AI-powered systems, and intelligent automati
 
 <p align="left">
 <a href="https://linkedin.com/in/abdullah-2k3" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-2k3" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="mailto:a.muhammad2k3@gmail.com" target="blank">
+  <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="30" width="40" />
 </a>
 </p>
 
