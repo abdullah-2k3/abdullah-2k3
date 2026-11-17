@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Maqsood</h1>
 
 <h3 align="center">
-Full Stack MERN Developer • Agentic AI Engineer • Data Science Graduate
+Full Stack Developer • .NET | Angular | Python • Data Science Graduate
 </h3>
 
 <p align="center">
